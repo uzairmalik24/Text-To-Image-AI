@@ -19,4 +19,4 @@ npm run dev
 
 Usage
 
-Enter a prompt → click Generate → get your AI image. Everything is has setup in App component.
+Enter a prompt → click Generate → get your AI image. Everything has setup in App component.
